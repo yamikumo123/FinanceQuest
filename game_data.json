@@ -1,0 +1,16 @@
+{
+    "player": {
+        "name": "H\u00e9roe Financiero",
+        "level": 2,
+        "xp": 50,
+        "hp": 100
+    },
+    "transactions": [
+        {
+            "amount": 1500.0,
+            "category": "sueldo",
+            "is_income": true,
+            "date": "2026-09-23 18:40:48"
+        }
+    ]
+}
