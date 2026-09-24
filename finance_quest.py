@@ -1,3 +1,6 @@
+# Proyecto: FinanceQuest - Gamificación de Finanzas Personales
+# Asignatura: Construcción de Software
+
 import json
 import os
 from datetime import datetime
